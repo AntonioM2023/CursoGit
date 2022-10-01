@@ -2,4 +2,5 @@ body{
 	background-color:#00F; /*Color de fondo azul a todo el documento*/
 	font-weight:bold; /*Texto en negrita*/
 	color:#F00; /*Color del texto rojo*/
+	font-size:18px; /*Tamaño de letra*/
 }
